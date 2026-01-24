@@ -1,0 +1,5 @@
+An,A,8
+Binh,A,7.5
+Chi,B,9
+Dung,B,6
+Ha,A,8.5
