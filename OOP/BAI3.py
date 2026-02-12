@@ -1,7 +1,7 @@
 from datetime import datetime, timedelta
 
 # input: YYYY-mm-dd
-s = input().strip()
+s = input("Nhap vao ngay thang nam sinh dang YYYY-mm-dd: ").strip()
 birth = datetime.strptime(s, "%Y-%m-%d")
 now = datetime.now()
 

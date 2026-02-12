@@ -1,7 +1,7 @@
 import random
 import math
 
-n = int(input())
+n = int(input("Nhap vao so nguyen n: "))
 
 a = [random.randint(1, 100) for _ in range(n)]
 

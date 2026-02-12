@@ -1,4 +1,4 @@
-name = input()
+name = input("Nhap vao ten cua ban: ")
 
 # cắt
 name = name.strip()
